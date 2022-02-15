@@ -5,7 +5,7 @@ Join [TBOT Project Discord](https://discord.gg/tbot) #tbot-developers-log channe
 
 Educate on fork and PR.
 
-The images are backed up on IPFS
+The writings are backed up on IPFS for posterity.
 
 [A-trustless-society.jpg](https://ipfs.io/ipfs/QmSc2CdqN64x957cab42opNzWhrrzhLnPehPZEJ8CbttZ6)
 
